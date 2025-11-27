@@ -1,6 +1,10 @@
 # Predictive Analysis: AirBnb Pricing in Melbourne
 
 ## 📌 Project Overview
+
+<img width="539" height="343" alt="image" src="https://github.com/user-attachments/assets/3083545d-2e8a-4eb4-ab12-e2afe077c354" />
+
+
 This project focuses on building a **machine learning model to predict the price of Airbnb listings in Melbourne** based on property and host features.
 The model was trained on historical data and applied to unseen listings, with the aim of achieving high predictive accuracy.
 
